@@ -4,7 +4,7 @@ Commands
 
 <h3>Answers</h3>
 
-1. To get inside thecmdchallenge/ directory , I used the ``cd`` command. `` name ``
+1. To get inside thecmdchallenge/ directory , I used the ``cd`` command. 
 2. To print the current directory, I used the ``dirs`` command.
 3. To list all the files from the current directory including the hidden ones, I used ``ls -R`` command.
 4. To list all the files of the current directory inside the project; First I used the ``cd ..`` command to get back in the line to beginning of the project and then use ``find . -print`` command.
