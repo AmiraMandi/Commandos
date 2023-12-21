@@ -19,3 +19,4 @@ Commands
 13. To Remove all the contents from the boringfolder, I removed file by file using the ``rm (name of folder)`` to delete all the content.
 14. To Open the file kamehameha/dragon-ball-jokes.md I used VI command line text editor. I wrote ``nano workspace/exercise-terminal-challenge/thecmdchallenge/kamehameha`` command.
 15. To remove the first joke save and close, I used the ``nano /workspace/exercise-terminal-challenge/thecmdchallenge/kamehameha/dragon-ball-jokes.md`` command to get inside the VI editor, then I delete the first joke, confirm to modify and click enter to save it, at last ``^X`` to close it.
+nuevo comando
